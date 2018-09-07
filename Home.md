@@ -12,7 +12,11 @@ Parts, Tools and Software Required
 
 
 •	Nut and bolts
-![NUTS AND BOLTS](https://user-images.githubusercontent.com/42512399/45218363-f8110800-b2c4-11e8-9f3e-2556f23f80ca.jpg)# 
+![NUTS AND BOLTS](https://user-images.githubusercontent.com/42512399/45218363-f8110800-b2c4-11e8-9f3e-2556f23f80ca.jpg)
 
-•	Pen Holder (Clothespin)
-•	2X Caster wheels
+•       Pen Holder (Clothespin)
+	
+
+•       2X Caster wheels
+![CASTER WHEELS](https://user-images.githubusercontent.com/42512399/45218499-71a8f600-b2c5-11e8-9022-dd7e0e17a115.jpg)
+
