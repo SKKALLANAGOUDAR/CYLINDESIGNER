@@ -20,3 +20,9 @@ Parts, Tools and Software Required
 •       2X Caster wheels
 ![CASTER WHEELS](https://user-images.githubusercontent.com/42512399/45218499-71a8f600-b2c5-11e8-9022-dd7e0e17a115.jpg)
 
+2. Electronics
+
+## Arduino Uno
+
+
+The Arduino UNO is a widely used open-source microcontroller board based on the Microchip ATmega328P microcontroller and developed by Arduino.cc. The board is equipped with sets of digital and analog input/output (I/O) pins that may be interfaced to various expansion boards (shields) and other circuits. The board features 14 Digital pins and 6 Analog pins. It is programmable with the Arduino IDE (Integrated Development Environment) via a type B USB cable. It can be powered by a USB cable or by an external 9 volt battery, though it accepts voltages between 7 and 20 volts. It is also similar to the Arduino Nano and Leonardo
