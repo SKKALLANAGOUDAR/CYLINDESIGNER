@@ -7,3 +7,5 @@ Below are some links which describe about the existing pattern drawing machines 
 Parts, Tools and Software Required
 1. Mechanical
 •	Mechanix kit
+![MECHANIX KIT](https://user-images.githubusercontent.com/42512399/45218182-538ec600-b2c4-11e8-90e6-5788476f3035.jpg)
+•	Nut and bolts
