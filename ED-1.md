@@ -24,3 +24,4 @@ Our project is to manufacture a machine which sketches different styles and patt
 ### L298N STEPPER MOTOR DRIVER:
 ![](https://user-images.githubusercontent.com/42512399/49365588-3889f180-f70d-11e8-9a2b-fa51ba6fba41.jpg)
 ### ARDUINO MEGA 2560:
+![](https://user-images.githubusercontent.com/42512399/49366321-109b8d80-f70f-11e8-87c0-8dc7a6ebdb5c.png)
