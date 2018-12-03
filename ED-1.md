@@ -27,3 +27,5 @@ Our project is to manufacture a machine which sketches different styles and patt
 ![](https://user-images.githubusercontent.com/42512399/49366321-109b8d80-f70f-11e8-87c0-8dc7a6ebdb5c.png)
 ### BREAD BOARD:
 ![](https://user-images.githubusercontent.com/42512399/49366463-6a9c5300-f70f-11e8-983a-1d257297f9d1.jpg)
+### 12V ADAPTER:
+![](https://user-images.githubusercontent.com/42512399/49366602-b9e28380-f70f-11e8-977d-ffcb2f54c292.jpg)
