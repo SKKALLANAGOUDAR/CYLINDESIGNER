@@ -15,4 +15,4 @@ The following sub-system controls the rotational speed of the Cylinder. It Mainl
 # Electronic circuit diagram of the sub-system:
  ![](https://user-images.githubusercontent.com/42763663/49462655-9ce7a680-f81c-11e8-9b88-90fb5f30847a.JPG)
 # Flow-Chart:
-
+![](https://user-images.githubusercontent.com/42763663/49462803-fbad2000-f81c-11e8-9762-bd9aae0fcfca.JPG)
