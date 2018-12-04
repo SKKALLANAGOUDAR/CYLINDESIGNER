@@ -1,6 +1,6 @@
 ### # TOPIC:  A Machine which draws styles and patterns on cylindrical objects
 ## Need statement:
-Styles and patterns like flower vase, glass bottle, etc are to be created on cylindrical objects. There is a need for a machine which automates the process
+Styles and patterns like flower vase, glass bottle, etc are to be created on cylindrical objects. There is a need for a machine which automates the process.
 
 ## Gathering Pertinent Information:
  An automatic machine which draws styles and patterns like flower vase, glass bottle on cylindrical objects is needed. In today’s generation there exists different kinds of machines like laser painting machine, 3-d printing machines and manual sketching machine which sketches some of the advertisements, posters and animations on the cylindrical objects.
