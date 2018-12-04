@@ -25,5 +25,7 @@ To design an attractive, portable and automated pattern drawing machine which sh
 ## List the inputs, outputs of the system and represent black box model:
 ![](https://user-images.githubusercontent.com/42512399/49447625-05bf2680-f7fd-11e8-97b6-d92ca46f50e6.JPG)
 ## Black box Diagram:
+![](https://user-images.githubusercontent.com/42512399/49449283-90edeb80-f800-11e8-9c87-a4a5c356e8d4.JPG)
+## Glass Box Diagram:
 ![](https://user-images.githubusercontent.com/42512399/49450178-7caaee00-f802-11e8-90d3-08bbc968bacd.JPG)
                                         
