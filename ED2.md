@@ -27,5 +27,5 @@ To design an attractive, portable and automated pattern drawing machine which sh
 ## Black box Diagram:
 ![](https://user-images.githubusercontent.com/42512399/49449283-90edeb80-f800-11e8-9c87-a4a5c356e8d4.JPG)
 ## Glass Box Diagram:
-
+![](https://user-images.githubusercontent.com/42512399/49453551-5dfc2580-f809-11e8-9cdc-e2eb1c4a0835.jpg)
                                         
