@@ -15,11 +15,13 @@ To design an attractive, portable and automated pattern drawing machine which sh
 |3. Inserting desired pattern              |              1.	Organization of the desired pattern                   |
 |                                          |              2.	Recognition of the desired pattern by the machine     |
 |                                          |              3.	Rotation of the cylinder                              |
-|
+|                                          |                                                                          |
 |4. Drawing of pattern on the cylinder     |   1.	Insertion of desired marker according to the suitable pattern |
 |                                          |   2.	Scanning of the desired pattern by the machine                |
 |                                          |   3.	Drawing the desired pattern on the cylindrical object by the  |
-|                                          |              machine                                                     |
+|                                          |              machine                                                     ||
 
+
+![](https://user-images.githubusercontent.com/42512399/49447625-05bf2680-f7fd-11e8-97b6-d92ca46f50e6.JPG)
   
                                         
