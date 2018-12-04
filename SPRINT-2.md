@@ -13,4 +13,4 @@ Two Aluminium hollow pipes of 13mm are horizontally attached to two 3” alumini
 ### 2.Movement of timing belt by stepper motor:
 12v stepper motor is used for the motion of the timing belt. 65cm of timing belt is fixed at one end to stepper motor and other end is supported by the pulley. L298N stepper motor driver is used for working of stepper motor in collaboration with Arduino Mega 2560.
 # Flowchart:
-
+![](https://user-images.githubusercontent.com/42512399/49465076-abd15780-f822-11e8-896c-8c109c66a41b.JPG)
