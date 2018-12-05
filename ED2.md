@@ -1,5 +1,5 @@
 # PROBLEM DEFINITION:
-To design an attractive, portable and automated pattern drawing machine which should draw maximum styles and patterns on cylindrical objects as possible with a considerable budget of ₹4000 and a weight of 4 to 5KG, The machine should work for atleast 2 hours a day by rotating the cylinder and it should draw shapes and patterns given by the designer. Machine should sense the presence of cylindrical object kept vertically and suitable marker which can be used. There should be indicators which should show the user if there are any errors in the machine or cylinder kept
+To design an attractive, portable and automated pattern drawing machine which should draw maximum styles and patterns on cylindrical objects as possible with a considerable budget of ₹4000 and a weight of 4 to 5 KG, The machine should work for atleast 2 hours a day by rotating the cylinder and it should draw shapes and patterns given by the designer.
 # USE CASE DIAGRAM:
 ![](https://user-images.githubusercontent.com/42512399/49445136-2a180480-f7f7-11e8-8451-339894ab034a.JPG)
 ## Functional Structure (detailed system sub functions for each Usecase):
