@@ -36,4 +36,6 @@ To design an attractive, portable and automated pattern drawing machine which sh
 ### concept 2:
 ![](https://user-images.githubusercontent.com/42512399/49526795-987fc400-f8d6-11e8-8867-601bc929e838.jpg)  
 ### concept 3:
- ![](https://user-images.githubusercontent.com/42512399/49528041-2a88cc00-f8d9-11e8-93c2-8325c9ddaff1.jpg)              
+ ![](https://user-images.githubusercontent.com/42512399/49528041-2a88cc00-f8d9-11e8-93c2-8325c9ddaff1.jpg)        
+### concept 4:
+![](https://user-images.githubusercontent.com/42512399/49528357-d3cfc200-f8d9-11e8-8762-877dee2943a4.jpg)      
