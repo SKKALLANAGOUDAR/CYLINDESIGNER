@@ -32,5 +32,10 @@ Bread Board is a great tool to design and test your circuits. You do not need to
 Structure of a Bread Board: Basically, a bread board is an array of conductive metal clips encased in a box made of white ABS plastic, where each clip is insulated with another clips. There are a number of holes on the plastic box, arranged in a particular fashion. A typical bread board layout consists of two types of region also called strips. Bus strips and socket strips. Bus strips are usually used to provide power supply to the circuit. It consists of two columns, one for power voltage and other for ground.
 Socket strips are used to hold most of the components in a circuit. Generally it consists of two sections each with 5 rows and 64 columns. Every column is electrically connected from
 inside. 
+![](https://user-images.githubusercontent.com/42512399/49539660-32a23500-f8f4-11e8-8cbb-53d775a47065.png)
+### Driver- L298n: 
+The L298N is a dual H-Bridge motor driver which allows speed and direction control of two DC motors at the same time. The module can drive DC motors that have voltages between 5 and 35V, with a peak current up to 2A.
 
+
+This depends on the voltage used at the motors VCC. The module have an onboard 5V regulator which is either enabled or disabled using a jumper. If the motor supply voltage is up to 12V we can enable the 5V regulator and the 5V pin can be used as output, for example for powering our Arduino board. But if the motor voltage is greater than 12V we must disconnect the jumper because those voltages will cause damage to the onboard 5V regulator. In this case the 5V pin will be used as input as we need connect it to a 5V power supply in order the IC to work properly.
 
