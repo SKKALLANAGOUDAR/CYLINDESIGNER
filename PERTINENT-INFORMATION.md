@@ -41,4 +41,8 @@ This depends on the voltage used at the motors VCC. The module have an onboard 5
 ![](https://user-images.githubusercontent.com/42512399/49539820-89a80a00-f8f4-11e8-96c5-35e1a36de3a0.jpg)
 ### Two channel Relay Module:
   The Arduino Relay module allows a wide range of microcontroller such as Arduino, AVR ,PIC, ARM with digital outputs to control larger loads and devices like AC or DC Motors, electromagnets, solenoids, and incandescent light bulbs. This module is designed to be integrated with 2 relays that it is capable of control 2 relays.The relay shield use one QIANJI JQC-3F high-quality relay with rated load 7A/240VAC,10A/125VAC,10A/28VDC.The relay output state is individually indicated by a light-emitting diode.
+![](https://user-images.githubusercontent.com/42512399/49539897-b8be7b80-f8f4-11e8-9fe9-f43ea89bde81.png)
+### 12V adapter: 
+AC adapters are used with electrical devices that require power but do not contain internal components to derive the required voltage and power from mains power. The internal circuitry of an external power supply is very similar to the design that would be used for a built-in or internal supply.
+
 
