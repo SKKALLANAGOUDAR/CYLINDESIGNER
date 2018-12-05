@@ -44,5 +44,8 @@ This depends on the voltage used at the motors VCC. The module have an onboard 5
 ![](https://user-images.githubusercontent.com/42512399/49539897-b8be7b80-f8f4-11e8-9fe9-f43ea89bde81.png)
 ### 12V adapter: 
 AC adapters are used with electrical devices that require power but do not contain internal components to derive the required voltage and power from mains power. The internal circuitry of an external power supply is very similar to the design that would be used for a built-in or internal supply.
-
+![](https://user-images.githubusercontent.com/42512399/49540010-02a76180-f8f5-11e8-98e7-eb3393a51bae.png)
+Timing belt:
+ A timing belt is a non-slipping mechanical drive belt.
+                                          
 
