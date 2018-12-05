@@ -29,4 +29,7 @@ To design an attractive, portable and automated pattern drawing machine which sh
 ## Glass Box Diagram:
 ![](https://user-images.githubusercontent.com/42512399/49453551-5dfc2580-f809-11e8-9cdc-e2eb1c4a0835.jpg)
 ## Morphological chart exploring the other alternative means of achieving the sub-functions:
-                                
+![](https://user-images.githubusercontent.com/42512399/49524082-117c1d00-f8d1-11e8-83e1-40ac20e6dd7c.JPG)     
+## Conceptual Models:
+### concept !:
+                          
