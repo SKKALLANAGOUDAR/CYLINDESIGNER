@@ -47,5 +47,8 @@ AC adapters are used with electrical devices that require power but do not conta
 ![](https://user-images.githubusercontent.com/42512399/49540010-02a76180-f8f5-11e8-98e7-eb3393a51bae.png)
 Timing belt:
  A timing belt is a non-slipping mechanical drive belt.
-                                          
+![](https://user-images.githubusercontent.com/42512399/49540082-2bc7f200-f8f5-11e8-96da-2af9e957fc1f.png)                                          
+### Pulley:
+A pulley is a wheel on an axle or shaft that is designed to support movement and change of direction of a taut cable or belt, or transfer of power between the shaft and cable or belt. In the case of a pulley supported by a frame or shell that does not transfer power to a shaft, but is used to guide the cable or exert a force, the supporting shell is called a block, and the pulley may be called a sheave.
+A pulley may have a groove or grooves between flanges around its circumference to locate the cable or belt. The drive element of a pulley system can be a rope, cable, belt, or chain.
 
