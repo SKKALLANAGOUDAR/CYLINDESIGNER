@@ -5,4 +5,3 @@ Styles and patterns like flower vase, glass bottle, etc are to be created on cyl
 ### Objectives:
 ![](https://user-images.githubusercontent.com/42512399/49540766-e4426580-f8f6-11e8-85bb-f6320479b3af.JPG)
 ### Constraints:
-
